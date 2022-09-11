@@ -1,2 +1,2 @@
 # GCD
-find GCD from two numbers
+find Greatest Common Divisior from two numbers using Euclidean algorithm
